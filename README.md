@@ -1,1 +1,2 @@
 # odin-recipes
+A small static website built with HTML & CSS. As of now just contains links to recipes. Mainly a way for me to practice and revise the foundations of web development and improve my efficiency with Git. I am hoping to add some dynamic features with Javascript soon. Done with the help of The Odin Project.
