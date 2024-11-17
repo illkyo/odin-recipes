@@ -1,0 +1,19 @@
+body {
+  font-family: "Papyrus", "Times New Roman", "Arial", "sans-serif";
+  background-color: goldenrod;
+}
+
+.header {
+  background-color: gold;
+  color: white;
+  text-align: center;
+}
+
+.header-span {
+  color: yellow;
+}
+
+.home-links-list a {
+  text-decoration: none;
+  font-weight: bold;
+}
