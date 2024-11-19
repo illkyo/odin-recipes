@@ -1,16 +1,23 @@
 body {
   font-family: "Papyrus", "Times New Roman", "Arial", "sans-serif";
-  background-color: goldenrod;
+  background-color: lightgoldenrodyellow;
+  color: black;
 }
 
 .header {
-  background-color: gold;
+  background-color: #FFE062;
   color: white;
+  margin: 0 auto;
   text-align: center;
+  width: 800px;
 }
 
-.header-span {
-  color: yellow;
+.egg {
+  color: #FFFAA0;
+}
+
+.recipes {
+  margin-left: 8px;
 }
 
 .home-links-list a {
