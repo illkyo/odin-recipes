@@ -17,6 +17,8 @@ body {
 
 .header {
   background-color: #FFE062;
+  border: 8px solid #F3E5AB;
+  padding: 10px;
   color: white;
   text-align: center;
 }
@@ -37,3 +39,17 @@ body {
   text-decoration: none;
   font-weight: bold;
 }
+
+.container.recipe-card {
+  background-color: #F5F5DC;
+  border: 8px solid #F3E5AB;
+  color: #F8DE7E;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.sub {
+  border-style: dotted;
+  border-width: 6px;
+}
+
