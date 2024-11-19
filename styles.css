@@ -15,7 +15,9 @@ body {
   text-align: start;
 }
 
-.header {
+.header,
+.recipe-card h1,
+.recipe-card h2 {
   background-color: #FFE062;
   border: 8px solid #F3E5AB;
   padding: 10px;
@@ -48,7 +50,8 @@ body {
   font-size: larger;
 }
 
-.sub {
+.recipe-card h1,
+.recipe-card h2 {
   border-style: dotted;
   border-width: 6px;
 }
