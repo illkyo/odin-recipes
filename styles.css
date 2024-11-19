@@ -4,20 +4,33 @@ body {
   color: black;
 }
 
+.content {
+  margin: 0 auto;
+  width: 800px;
+  text-align: center;
+}
+
+.content ul,
+.content ol {
+  text-align: start;
+}
+
 .header {
   background-color: #FFE062;
   color: white;
-  margin: 0 auto;
   text-align: center;
-  width: 800px;
 }
 
-.egg {
+.egg-header {
   color: #FFFAA0;
 }
 
-.recipes {
+.recipes-header {
   margin-left: 8px;
+}
+
+.home-links-list {
+  list-style: georgian;
 }
 
 .home-links-list a {
